@@ -1,5 +1,14 @@
 # Text generation web UI
 
+此版本仅适配的操作系统和硬件
+
+1、Windows11
+2、2080ti 22g魔改显卡
+3、将墙外的资源映射为墙内资源  包括  huggingface、GitHub，PyPI
+huggingface 修改为  https://hf-mirror.com/
+GitHub  修改为  https://hub.nuaa.cf/
+PyPI    修改为  阿里的镜像库
+
 A Gradio web UI for Large Language Models.
 
 Its goal is to become the [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) of text generation.
